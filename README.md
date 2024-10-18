@@ -19,6 +19,8 @@ ls
 ```
 
 **Output:**
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/0c0a657c-97f4-4e73-a483-e5e828390b14">
+
 
 ### 2. `pwd` Command
 
@@ -30,6 +32,8 @@ pwd
 ```
 
 **Output:**
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/7e3be958-92f4-46da-aa96-333f6986b51e">
+
 
 ### 3. `mkdir` Command
 
@@ -41,6 +45,8 @@ mkdir <directory_name>
 ```
 
 **Output:**
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/0b3a994f-dc6d-43e3-8933-65ee3d852a31">
+
 
 ### 4. `rmdir` Command
 
@@ -52,6 +58,8 @@ rmdir <directory_name>
 ```
 
 **Output:**
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/4c0b13ed-8331-4ad2-a180-a315cb9b0926">
+
 
 ### 5. `cd` Command
 
@@ -63,6 +71,8 @@ cd <directory_name>
 ```
 
 **Output:**
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/b0f678b8-b00b-4ac0-9e40-cbaf9b5a4d2c">
+
 
 ### 6. `cat` Command
 
@@ -74,6 +84,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/3e2759c2-9e2b-4e1e-8325-787f9dcbd755">
+
 
 ### 7. `cp` Command
 
@@ -85,6 +97,8 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/1851692d-2d1a-4974-8181-3b40cbd696ba">
+
 
 ### 8. `gedit` Command
 
